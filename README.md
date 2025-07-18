@@ -1,5 +1,5 @@
-Creating Feed, Watch, Recommended pages with static data.
-Going step by step advanced, used youtube apis for fetching dynamic data to feed, recommendation, watching by using map function and removed the statically placed data.
+# Creating Feed, Watch, Recommended pages with static data.
+# Going step by step advanced, used youtube apis for fetching dynamic data to feed, recommendation, watching by using map function and removed the statically placed data.
 When searched through the search bar, fetched the data from the api for that specific search.
 Divided the sidebar as different categories when clicked any of them shown the specific results to that particular category.
 Placed the Navbar, Sidebar across all pages for easy navigation to different pages or categories.
